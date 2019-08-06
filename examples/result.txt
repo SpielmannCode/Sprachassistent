@@ -1,0 +1,10 @@
+{"results": [{"alternatives": [{"confidence": 0.69, "transcript": "straﬂe ist amselweg "}], "final": true}], "result_index": 0}
+{"results": [{"alternatives": [{"confidence": 0.69, "transcript": "straﬂe ist albrechtstrasse "}], "final": true}], "result_index": 0}
+{"results": [{"alternatives": [{"confidence": 0.69, "transcript": "in steglitz "}], "final": true}], "result_index": 0}
+{"results": [{"alternatives": [{"confidence": 0.69, "transcript": "einkommen 104000"}], "final": true}], "result_index": 0}
+{"results": [{"alternatives": [{"confidence": 0.69, "transcript": "kaufpreis 350000 "}], "final": true}], "result_index": 0}
+{"results": [{"alternatives": [{"confidence": 0.69, "transcript": "eigenkapital 150000 "}], "final": true}], "result_index": 0}
+{"results": [{"alternatives": [{"confidence": 0.69, "transcript": "eigenkapital 130000 "}], "final": true}], "result_index": 0}
+
+{"results": [{"alternatives": [{"confidence": 0.37, "transcript": "in ordnung "}], "final": true}], "result_index": 0}
+{"results": [{"alternatives": [{"confidence": 0.54, "transcript": "also haben wir doch "}], "final": true}], "result_index": 0}
